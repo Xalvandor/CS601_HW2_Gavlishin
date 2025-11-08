@@ -1,62 +1,66 @@
-{
-  "Philadelphia": [
-    {
-      "id": 1,
-      "name": "Eagles",
-      "category": "Football",
-      "chant": "Go Birds!",
-      "logoURL": "https://freepngimg.com/thumb/philadelphia_eagles/29550-5-philadelphia-eagles.png"
-    },
-    {
-      "id": 2,
-      "name": "Phillies",
-      "category": "Baseball",
-      "chant": "Let's Go Phils!",
-      "logoURL": "https://c1.staticflickr.com/7/6039/6245205482_1b9538cdde_b.jpg"
-    },
-    {
-      "id": 3,
-      "name": "76ers",
-      "category": "Basketball",
-      "chant": "Here Come the Sixers!",
-      "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png"
-    },
-    {
-      "id": 4,
-      "name": "Flyers",
-      "category": "Hockey",
-      "chant": "Let's Go Flyers!",
-      "logoURL": "https://live.staticflickr.com/1959/45361395561_de46ef68ec_b.jpg"
-    }
-  ],
-  "Boston": [
-    {
-      "id": 5,
-      "name": "Patriots",
-      "category": "Football",
-      "chant": "Let's Go Pats!",
-      "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/New_England_Patriots_logo.svg/200px-New_England_Patriots_logo.svg.png"
-    },
-    {
-      "id": 6,
-      "name": "Red Sox",
-      "category": "Baseball",
-      "chant": "Let's Go Red Sox!",
-      "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1200px-RedSoxPrimary_HangingSocks.svg.png"
-    },
-    {
-      "id": 7,
-      "name": "Celtics",
-      "category": "Basketball",
-      "chant": "Let's Go Celtics!",
-      "logoURL": "https://upload.wikimedia.org/wikipedia/ro/thumb/8/8f/Boston_Celtics.svg/200px-Boston_Celtics.svg.png"
-    },
-    {
-      "id": 8,
-      "name": "Bruins",
-      "category": "Hockey",
-      "chant": "Let's Go Bruins!",
-      "logoURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bd43203c-a98e-4186-92cd-0d5d63c25386/d4uzgze-b4235b97-a62b-403a-9e5e-407087502e71.png"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "city": "Philadelphia",
+    "name": "Eagles",
+    "category": "Football",
+    "chant": "Go Birds!",
+    "logoURL": "https://freepngimg.com/thumb/philadelphia_eagles/29550-5-philadelphia-eagles.png"
+  },
+  {
+    "id": 2,
+    "city": "Philadelphia",
+    "name": "Phillies",
+    "category": "Baseball",
+    "chant": "Let's Go Phils!",
+    "logoURL": "https://c1.staticflickr.com/7/6039/6245205482_1b9538cdde_b.jpg"
+  },
+  {
+    "id": 3,
+    "city": "Philadelphia",
+    "name": "76ers",
+    "category": "Basketball",
+    "chant": "Here Come the Sixers!",
+    "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Philadelphia_76ers_logo.svg/1200px-Philadelphia_76ers_logo.svg.png"
+  },
+  {
+    "id": 4,
+    "city": "Philadelphia",
+    "name": "Flyers",
+    "category": "Hockey",
+    "chant": "Let's Go Flyers!",
+    "logoURL": "https://live.staticflickr.com/1959/45361395561_de46ef68ec_b.jpg"
+  },
+  {
+    "id": 5,
+    "city": "Boston",
+    "name": "Patriots",
+    "category": "Football",
+    "chant": "Let's Go Pats!",
+    "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/New_England_Patriots_logo.svg/200px-New_England_Patriots_logo.svg.png"
+  },
+  {
+    "id": 6,
+    "city": "Boston",
+    "name": "Red Sox",
+    "category": "Baseball",
+    "chant": "Let's Go Red Sox!",
+    "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1200px-RedSoxPrimary_HangingSocks.svg.png"
+  },
+  {
+    "id": 7,
+    "city": "Boston",
+    "name": "Celtics",
+    "category": "Basketball",
+    "chant": "Let's Go Celtics!",
+    "logoURL": "https://upload.wikimedia.org/wikipedia/ro/thumb/8/8f/Boston_Celtics.svg/200px-Boston_Celtics.svg.png"
+  },
+  {
+    "id": 8,
+    "city": "Boston",
+    "name": "Bruins",
+    "category": "Hockey",
+    "chant": "Let's Go Bruins!",
+    "logoURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bd43203c-a98e-4186-92cd-0d5d63c25386/d4uzgze-b4235b97-a62b-403a-9e5e-407087502e71.png"
+  }
+]
