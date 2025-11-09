@@ -28,6 +28,7 @@ function fetchSports() {
       return response.json();
     }).then(data => {
     processData(data);
+    console.log(data);
   }).catch((err) => {
     console.log('rejected', err);
   });
