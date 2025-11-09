@@ -17,6 +17,30 @@ html {
   line-height: 1.4;
 }
 
+body {
+  text-align: center;
+}
+
+.container {
+  float: left;
+  display: inline-block;
+  border: 10px solid black;
+  margin: 20px;
+  align-items: center;
+  min-height: 150px;
+  text-align: center;
+}
+
+.dropzone {
+  border: 1px solid black;
+  margin: 10px;
+  width: 150px;
+  display: inline-block;
+  min-height: 150px;
+  text-align: center;
+}
+
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
