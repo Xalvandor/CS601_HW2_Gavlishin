@@ -33,6 +33,14 @@
   },
   {
     "id": 5,
+    "city": "Philadelphia",
+    "name": "Union",
+    "category": "Soccer",
+    "chant": "Let's Go Union!",
+    "logoURL": "https://pluspng.com/img-png/logo-philadelphia-union-png--1200.png"
+  },
+  {
+    "id": 6,
     "city": "Boston",
     "name": "Patriots",
     "category": "Football",
@@ -40,7 +48,7 @@
     "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/New_England_Patriots_logo.svg/200px-New_England_Patriots_logo.svg.png"
   },
   {
-    "id": 6,
+    "id": 7,
     "city": "Boston",
     "name": "Red Sox",
     "category": "Baseball",
@@ -48,7 +56,7 @@
     "logoURL": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/RedSoxPrimary_HangingSocks.svg/1200px-RedSoxPrimary_HangingSocks.svg.png"
   },
   {
-    "id": 7,
+    "id": 8,
     "city": "Boston",
     "name": "Celtics",
     "category": "Basketball",
@@ -56,11 +64,19 @@
     "logoURL": "https://upload.wikimedia.org/wikipedia/ro/thumb/8/8f/Boston_Celtics.svg/200px-Boston_Celtics.svg.png"
   },
   {
-    "id": 8,
+    "id": 9,
     "city": "Boston",
     "name": "Bruins",
     "category": "Hockey",
     "chant": "Let's Go Bruins!",
     "logoURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bd43203c-a98e-4186-92cd-0d5d63c25386/d4uzgze-b4235b97-a62b-403a-9e5e-407087502e71.png"
+  },
+  {
+    "id": 10,
+    "city": "Boston",
+    "name": "Revolution",
+    "category": "Soccer",
+    "chant": "Let's Go Revolution!",
+    "logoURL": "https://logos-world.net/wp-content/uploads/2020/06/New-England-Revolution-Logo-1996-present.png"
   }
 ]
